@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available [@twna21](github.com/twna21)
 
-- 💬 Ask me about **System Designs and Philosophy 😆**
-
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
 
